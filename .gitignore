@@ -1,0 +1,8 @@
+## node_module dir
+node_modules/
+
+## build dir
+build/
+
+## bundle js file
+public/bundle.js
